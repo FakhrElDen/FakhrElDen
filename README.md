@@ -12,11 +12,11 @@
   - E-commerce  
   - Real-time apps with WebSockets  
 - 🔌 Integrated with payment gateways, AI services, and APIs (Zoom, etc.).  
-- 🌱 Currently exploring **Java** and enterprise architectures.  
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-fakhr-el-din/)  
-- [Email](mailto:mohamedfakhr202@gmail.com)  
+- [Email](mailto:mohamedfakhr202@gmail.com)
+- [Website](https://www.fakhr.dev)  
 
 ---
 
