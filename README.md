@@ -15,8 +15,8 @@
 - 🌱 Currently exploring **Java** and enterprise architectures.  
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Email](mailto:your@email.com)  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-fakhr-el-din/)  
+- [Email](mailto:mohamedfakhr202@gmail.com)  
 
 ---
 
